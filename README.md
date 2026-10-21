@@ -1,2 +1,2 @@
-# 8-bit
+# 30s 8-bit music
 music
